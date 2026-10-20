@@ -1,0 +1,10 @@
+{
+  "description": "Automatically create beautiful photo books from your memories with AI-powered photo grouping, manual editing, and options for printed or digital purchase.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
